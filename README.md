@@ -1,5 +1,5 @@
-# Fake Passport Detector
-![Architecture](screenshots/FakePassportDetector.gif)
+# PAW - INN
+![Architecture](screenshots/pawinn.gif)
 
 ## Getting Started with Create React App
 
